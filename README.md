@@ -1,5 +1,6 @@
 👋 Hi,
 Since my days in school I was programming. Using different hardware, different operating systems and different programming languages, compilers and interpreters.
+
 I hope you like my projects, because I'd like to share some of them here. Giving something back to the open source community that I've learned from and benefited from over the years. 
   
 <!---
