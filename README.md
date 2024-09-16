@@ -1,7 +1,7 @@
 👋 Hi,
-Since my days in school I was programming. Using different hardware, different operating systems and different programming languages, compilers and interpreters.
 
-I hope you like my projects, because I'd like to share some of them here. Giving something back to the open source community that I've learned from and benefited from over the years. 
+I hope you like my projects, which I share here with the open source community and the rest of the world.
+
   
 <!---
 maekdev/maekdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
