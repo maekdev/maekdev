@@ -1,6 +1,6 @@
 👋 Hi,
 
-I hope you like my projects, which I share here with the open source community and the rest of the world.
+in these repositories you'll find some of my projects. 
 
   
 <!---
